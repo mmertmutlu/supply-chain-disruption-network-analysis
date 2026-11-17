@@ -1,0 +1,6 @@
+# raw challenge data is not redistributed
+data/*.csv
+data/*.xls*
+results/
+__pycache__/
+.ipynb_checkpoints/
